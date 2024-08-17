@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0AEB0A2-0451-41CB-BC56-7509EB326C1D}|EjercicioHerencia\\EjercicioHerencia.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programaci\u00F3n2\\ejercicioherencia\\ejercicioherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AEB0A2-0451-41CB-BC56-7509EB326C1D}|EjercicioHerencia\\EjercicioHerencia.csproj|solutionrelative:ejercicioherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programaci\u00F3n2\\ejercicioherencia\\ejercicioherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|solutionrelative:ejercicioherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programaci\u00F3n2\\ejercicioherencia\\ejercicioherencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|solutionrelative:ejercicioherencia\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programaci\u00F3n2\\ejercicioherencia\\ejercicioherencia\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51E369F-6C1A-417C-8C5A-EE71CBD55B1B}|EjercicioHerencia\\EjercicioHerencia.csproj|solutionrelative:ejercicioherencia\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\EjercicioHerencia\\Calcular.cs",
+              "RelativeDocumentMoniker": "EjercicioHerencia\\Calcular.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\EjercicioHerencia\\Calcular.cs",
+              "RelativeToolTip": "EjercicioHerencia\\Calcular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:06:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\EjercicioHerencia\\Operaciones.cs",
+              "RelativeDocumentMoniker": "EjercicioHerencia\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\EjercicioHerencia\\Operaciones.cs",
+              "RelativeToolTip": "EjercicioHerencia\\Operaciones.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:04:23.143Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +58,9 @@
               "RelativeDocumentMoniker": "EjercicioHerencia\\Program.cs",
               "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programaci\u00F3n2\\EjercicioHerencia\\EjercicioHerencia\\Program.cs",
               "RelativeToolTip": "EjercicioHerencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T02:30:42.064Z",
+              "WhenOpened": "2024-08-17T08:02:29.447Z",
               "EditorCaption": ""
             }
           ]

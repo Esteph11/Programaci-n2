@@ -1,0 +1,15 @@
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.exe
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.deps.json
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.dll
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.pdb
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.sourcelink.json
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.dll
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\refint\EjercicioHerencia.dll
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.pdb
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\Project\Programación2\EjercicioHerencia\EjercicioHerencia\obj\Debug\net8.0\ref\EjercicioHerencia.dll
